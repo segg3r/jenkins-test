@@ -1,10 +1,5 @@
 {
-    "success": false,
+    "success": true,
     "errors": [
-        {
-            "testName": "masterAccountSettings > &lt;a href=&quot;https://jira.cbmain.clarabridge.com/jira/browse/CES-3875&quot;&gt;CES-3875:, Show visible licenses in user Administration page&lt;/a&gt;",
-            "error": "Expected false to be truthy.",
-            "runId": "SVXW5nBZ"
-        }
     ]
 }
