@@ -2,7 +2,7 @@
     "success": false,
     "errors": [
         {
-            "testName": "masterAccountSettings > bbb",
+            "testName": "masterAccountSettings > &lt;a href=&quot;https://jira.cbmain.clarabridge.com/jira/browse/CES-3875&quot;&gt;CES-3876:, Show visiblcscsce licenses in user Administration page&lt;/a&gt;",
             "error": "Expected false to be truthy.",
             "runId": "SVXW5nBZ"
         }
