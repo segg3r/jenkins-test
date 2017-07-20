@@ -2,7 +2,7 @@
     "success": false,
     "errors": [
         {
-            "testName": "masterAccountSettings > aaa",
+            "testName": "masterAccountSettings > bbb",
             "error": "Expected false to be truthy.",
             "runId": "SVXW5nBZ"
         }
